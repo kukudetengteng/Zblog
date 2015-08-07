@@ -50,8 +50,9 @@ ZblogForMobile
 * 后台 chrome/firefox/ie9+
   
 ### 作者博客
-* 新新作者：腾腾，微信XP-TengTeng
+* 新作者：腾腾，微信XP-TengTeng
 * 原作者：(http://www.zhouhaocheng.cn)
+* 原作者项目：https://github.com/dongfangshangren/Zblog
 
 ### 感谢
 * 感谢“东方上人"的Zblog，ZblogForMobile在Zblog基础上修改
