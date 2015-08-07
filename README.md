@@ -1,7 +1,7 @@
-Zblog
+ZblogForMobile
 =======
 
-a java blog
+一个Java编写的Blog系统，专为移动互联网，微信设计。
 ---------------
 
 ### 核心功能
@@ -21,7 +21,9 @@ a java blog
 14.	响应式布局支持
 
 #### TODO
-*	评论邮件提醒、近期评论
+*	移动端自适应
+*	微信登录
+*	微信认证
 
 ### 技术选型
 
@@ -48,4 +50,8 @@ a java blog
 * 后台 chrome/firefox/ie9+
   
 ### 作者博客
-  (http://www.zhouhaocheng.cn)
+* 新新作者：腾腾，微信XP-TengTeng
+* 原作者：(http://www.zhouhaocheng.cn)
+
+### 感谢
+* 感谢“东方上人"的Zblog，ZblogForMobile在Zblog基础上修改
